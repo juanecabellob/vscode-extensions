@@ -19,7 +19,7 @@ Material Icon Theme
 
 ## Linter
 
-* Eslint
+* [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Markdown](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 * [CSS](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 
@@ -31,23 +31,23 @@ Material Icon Theme
 
 ## JavaScript Tools
 
-* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-* [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
-* [Scratchpad for JavaScript](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
-* [Transform quotes](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+* [Scratchpad for JavaScript](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+* [Transform quotes](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
 ## HTML
 
-* [Autorename paired tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
-* [Autoclose tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+* [Autorename paired tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [Autoclose tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 ## Git
 
-* [Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators
-* [Git blame and annotations](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-* [Direct link to remote url](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink
-* [File history in git](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
-* [Gitignore generator](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi
+* [Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
+* [Git blame and annotations](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Direct link to remote url](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
+* [File history in git](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+* [Gitignore generator](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 
 ## Project/edition tools
 
